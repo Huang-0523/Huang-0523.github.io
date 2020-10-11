@@ -1,2 +1,2 @@
 # my-blog
-scanf("change")
+scanf("change");
