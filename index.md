@@ -13,6 +13,7 @@
       <p><b>下面是我的个人作业，走过路过不要错过</b></p>
       <p><b>信号与系统</b></p>
       <p><a href="/github.com/Coffeeplanet/my-blog/blob/master/.python/">信号与系统实践</a></p>
+      <p><a href="https://github.com/Huang-0523/Huang-0523.github.io/blob/main/GUI%E5%AE%9E%E7%8E%B0%E7%A6%BB%E6%95%A3%E4%BF%A1%E5%8F%B7.py">信号与系统实践1</a></p>
       <p><b>欢迎下次光临</b></p>
     </td>
   </tr>
